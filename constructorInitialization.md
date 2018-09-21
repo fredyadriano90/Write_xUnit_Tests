@@ -1,5 +1,6 @@
 ## Setup the SUT in the constructor 
 Each test method will receice a new SUT object to be tested.
+The constructor is allways executed before each test execution 
 
 ```
 public class StringCalculatorShould

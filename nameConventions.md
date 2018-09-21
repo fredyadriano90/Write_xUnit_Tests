@@ -57,3 +57,8 @@ and I usually name the method or property equal that my test method.
 
 E.G. `MathematicTestData`
      `Sum_TwoNumbers_ReturnsCorrectValue` or `Sum_TwoNumbers_ReturnsCorrectValue()`
+     
+### Global private fields 
+I like used undescore to name all my global private fields 
+
+E.G. `private readonly Mathematic _sut;`

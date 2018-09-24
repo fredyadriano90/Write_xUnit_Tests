@@ -1,4 +1,6 @@
-# Using member data
+## Using member data
+This is similar to [InlineData](./03-InlineData.md). 
+Using this approach we can run the test using external data or create common data to be consumed for our tests avoid code duplication
 
 ```
 namespace Test_Namespace

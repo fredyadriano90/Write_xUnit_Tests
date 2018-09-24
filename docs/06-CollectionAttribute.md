@@ -1,6 +1,6 @@
 ### Collection Attribute
 
-This is used to share the same object instance in two or more classess 
+This is used to share the same SUT instance in two or more classess 
 
  1 - [Create a Fixture](./05-Fixture.md)
  

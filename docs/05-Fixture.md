@@ -1,5 +1,5 @@
 ## Fixture
-The SUT is created one time and used in all the tests 
+The SUT is created ONE TIME and the same instance is used in all the tests.
 
 ```
 namespace Fixtures_Namespace

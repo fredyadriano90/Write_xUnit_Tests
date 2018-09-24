@@ -2,7 +2,7 @@
 
 This is used to share the same object instance in two or more classess 
 
- 1 - [Create a Fixture](https://github.com/fredyadriano90/Write_xUnit_Tests/blob/master/05-Fixture.md)
+ 1 - [Create a Fixture](./05-Fixture.md)
  
  2 - Create the collection fixture
  ```

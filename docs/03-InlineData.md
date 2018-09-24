@@ -1,4 +1,5 @@
-### Inline Data
+## Inline Data
+This is used to pass data to a test method avoiding the need of repeat the same task for different values
 
 ```
 namespace Test_Namespace

@@ -1,4 +1,4 @@
-## Getting the fixture through Dependency Injection
+## Fixture
 The SUT is created one time and used in all the tests 
 
 ```
